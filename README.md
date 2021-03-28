@@ -16,6 +16,19 @@
   - 多路复用技术: select poll epoll
   - 多路IO复用与多线程或者多进程结合使用
   - 第三方库: libevent
+- 报文编解码 ASN.1
 
-
+- 进程间通信 
+  - pipe fifo mmap 本地套接字  网络套接字  共享内存
+- 数据库操作相关知识点
+  - oracle的occi库
+- 守护进程的创建步骤
+- 信号相关知识点
+	SIGUSR1 SIGUSR2 
+	signal   sigaction 
+- shell编程相关
+- 加密算法相关
+- 多线程开发
+- c++基础的概念
+	封装 继承  多态
 
