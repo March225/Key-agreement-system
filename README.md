@@ -19,10 +19,10 @@
   - pipe fifo mmap 本地套接字 网络套接字 共享内存
 - 数据库相关
   - oracle的occi库
-- 守护进程的创建步骤
+- 守护进程的创建
 - 信号相关
   - SIGUSR1 SIGUSR2 
-  - signal sigaction 
+  - signal() sigaction()
 - shell编程相关
 - 加密算法相关
 
