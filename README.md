@@ -4,6 +4,7 @@
 
 ## 主要知识点
 - 对称加密和非对称加密
+- 单向散列函数（哈希函数）
 - C++基础
 - 报文编解码方式[ASN.1](https://blog.csdn.net/dongdong7_77/article/details/113072896)
   - 定义  
