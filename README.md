@@ -17,7 +17,7 @@
 - 工厂模式
 
 - 网络通信
-  - TCP协议
+  - TCP/IP协议
   - 三次握手和四次挥手
   - socket API函数: socket bind listen accept connect | read recv send write	     
   - 多进程并发服务器
